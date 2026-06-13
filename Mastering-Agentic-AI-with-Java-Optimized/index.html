@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mastering Agentic AI with Java - Course Documentation</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Left Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>📚 Course Slides</h2>
+                <p class="subtitle">Mastering Agentic AI with Java</p>
+            </div>
+            
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="🔍 Search slides..." />
+            </div>
+            
+            <nav class="navigation" id="slideNavigation">
+                <!-- Navigation items will be dynamically loaded -->
+            </nav>
+        </aside>
+
+        <!-- Right Content Pane -->
+        <main class="content">
+            <div class="content-header">
+                <h1 id="slideTitle">Welcome to Mastering Agentic AI with Java</h1>
+                <div class="slide-meta">
+                    <span id="slideMeta" class="badge">Select a slide from the left panel</span>
+                </div>
+            </div>
+            
+            <div class="content-body" id="contentBody">
+                <div class="welcome-screen">
+                    <div class="welcome-card">
+                        <h2>🎓 Welcome to the Course Documentation</h2>
+                        <p>This interactive documentation contains all 25 slides from the <strong>Mastering Agentic AI with Java</strong> course brochure.</p>
+                        
+                        <div class="features">
+                            <div class="feature">
+                                <span class="icon">📊</span>
+                                <h3>25 Slides</h3>
+                                <p>Complete course overview</p>
+                            </div>
+                            <div class="feature">
+                                <span class="icon">📐</span>
+                                <h3>11 Diagrams</h3>
+                                <p>Architecture & workflows</p>
+                            </div>
+                            <div class="feature">
+                                <span class="icon">🔍</span>
+                                <h3>Searchable</h3>
+                                <p>Find content instantly</p>
+                            </div>
+                        </div>
+                        
+                        <div class="course-blocks">
+                            <h3>📚 Course Structure</h3>
+                            <ul>
+                                <li><strong>Block 1:</strong> Foundations - NLP, Transformers, LLMs</li>
+                                <li><strong>Block 2:</strong> Spring AI - RAG, Memory, Tool Calling</li>
+                                <li><strong>Block 3:</strong> Google ADK - Agent Development</li>
+                                <li><strong>Block 4:</strong> LangChain4j - Agentic Workflows</li>
+                                <li><strong>Block 5:</strong> Projects - Real-world applications</li>
+                            </ul>
+                        </div>
+                        
+                        <p class="cta">👈 Click on any slide from the left panel to view its content</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="content-footer">
+                <button id="prevBtn" class="nav-btn" disabled>← Previous</button>
+                <button id="nextBtn" class="nav-btn">Next →</button>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,428 @@
+[
+  {
+    "id": 1,
+    "type": "content",
+    "summary": "learn.telusko.com",
+    "concepts": [],
+    "img": "slides/slide-001.png",
+    "mmd": null
+  },
+  {
+    "id": 2,
+    "type": "arch",
+    "summary": "learn.telusko.com",
+    "concepts": [
+      "Supervisor",
+      "AI",
+      "Spring Al",
+      "Architecture\nGoogle",
+      "Memory\nFundamentals",
+      "Com",
+      "NLP",
+      "Spring",
+      "LLM",
+      "Agent",
+      "Memory",
+      "Workflow\nAgents",
+      "Travel Agent\nSupport Bot",
+      "RAG",
+      "ADK"
+    ],
+    "img": "slides/slide-002.png",
+    "mmd": "diagrams/slide-002.mmd"
+  },
+  {
+    "id": 3,
+    "type": "title",
+    "summary": "learn.telusko.com",
+    "concepts": [
+      "Core",
+      "AI",
+      "Step",
+      "Fundamentals\nTransformers",
+      "Sentiment",
+      "From",
+      "Tokenization",
+      "NLP",
+      "Spring",
+      "LLM",
+      "API",
+      "Java",
+      "Lay",
+      "POS",
+      "Java\nDeep Learning\nWhat"
+    ],
+    "img": "slides/slide-003.png",
+    "mmd": "diagrams/slide-003.mmd"
+  },
+  {
+    "id": 4,
+    "type": "title",
+    "summary": "learn.telusko.com",
+    "concepts": [
+      "Spring",
+      "Step",
+      "AI"
+    ],
+    "img": "slides/slide-004.png",
+    "mmd": null
+  },
+  {
+    "id": 5,
+    "type": "content",
+    "summary": "learn.telusko.com",
+    "concepts": [],
+    "img": "slides/slide-005.png",
+    "mmd": null
+  },
+  {
+    "id": 6,
+    "type": "title",
+    "summary": "learn.telusko.com",
+    "concepts": [
+      "ADK",
+      "Google",
+      "Step"
+    ],
+    "img": "slides/slide-006.png",
+    "mmd": null
+  },
+  {
+    "id": 7,
+    "type": "flow",
+    "summary": "learn.telusko.com",
+    "concepts": [
+      "Agent",
+      "Workflow",
+      "Orchestrate Multi",
+      "Agent\nWorkflows"
+    ],
+    "img": "slides/slide-007.png",
+    "mmd": "diagrams/slide-007.mmd"
+  },
+  {
+    "id": 8,
+    "type": "title",
+    "summary": "learn.telusko.com",
+    "concepts": [
+      "Step"
+    ],
+    "img": "slides/slide-008.png",
+    "mmd": null
+  },
+  {
+    "id": 9,
+    "type": "content",
+    "summary": "learn.telusko.com",
+    "concepts": [],
+    "img": "slides/slide-009.png",
+    "mmd": null
+  },
+  {
+    "id": 10,
+    "type": "content",
+    "summary": "learn.telusko.com",
+    "concepts": [],
+    "img": "slides/slide-010.png",
+    "mmd": null
+  },
+  {
+    "id": 11,
+    "type": "title",
+    "summary": "learn.telusko.com",
+    "concepts": [
+      "Build\nAutonomous Systems",
+      "Step"
+    ],
+    "img": "slides/slide-011.png",
+    "mmd": "diagrams/slide-011.mmd"
+  },
+  {
+    "id": 12,
+    "type": "content",
+    "summary": "learn.telusko.com",
+    "concepts": [
+      "Powered",
+      "React",
+      "Al",
+      "Com  App\nFrontend",
+      "UI",
+      "The Capstone"
+    ],
+    "img": "slides/slide-012.png",
+    "mmd": null
+  },
+  {
+    "id": 13,
+    "type": "content",
+    "summary": "learn.telusko.com",
+    "concepts": [],
+    "img": "slides/slide-013.png",
+    "mmd": null
+  },
+  {
+    "id": 14,
+    "type": "content",
+    "summary": "HYDER ABBAS",
+    "concepts": [
+      "NAVIN",
+      "ABBAS",
+      "REDDY",
+      "HYDER"
+    ],
+    "img": "slides/slide-014.png",
+    "mmd": null
+  },
+  {
+    "id": 15,
+    "type": "agenda",
+    "summary": "Date: June 14, 2026",
+    "concepts": [
+      "Sun",
+      "PM",
+      "LLM",
+      "Spring Boot\nFormat",
+      "IST",
+      "Date",
+      "AM",
+      "Java",
+      "Syllabus Overview\nThis",
+      "AI",
+      "Weekend",
+      "Duration",
+      "Spring",
+      "Months\nPrerequisites",
+      "Sat"
+    ],
+    "img": "slides/slide-015.png",
+    "mmd": "diagrams/slide-015.mmd"
+  },
+  {
+    "id": 16,
+    "type": "title",
+    "summary": "Block 1: Foundations",
+    "concepts": [
+      "Core",
+      "AI",
+      "Sentiment",
+      "FUNDAMENTALS",
+      "From",
+      "What",
+      "Tokenization",
+      "NLP",
+      "Spring",
+      "LLM",
+      "Deep Learning",
+      "Agent",
+      "API",
+      "Java",
+      "Block"
+    ],
+    "img": "slides/slide-016.png",
+    "mmd": "diagrams/slide-016.mmd"
+  },
+  {
+    "id": 17,
+    "type": "title",
+    "summary": "Block 2: Spring AI",
+    "concepts": [
+      "AI",
+      "Azure",
+      "Ollama",
+      "Spring",
+      "Memory",
+      "RAG",
+      "API",
+      "Java",
+      "Anthropic",
+      "Model",
+      "Block",
+      "Introduction \nWhy Spring"
+    ],
+    "img": "slides/slide-017.png",
+    "mmd": "diagrams/slide-017.mmd"
+  },
+  {
+    "id": 18,
+    "type": "tech",
+    "summary": "Vector Embeddings",
+    "concepts": [
+      "AI",
+      "Cosine",
+      "DB",
+      "Visualizing",
+      "Basics \n Advanced",
+      "Vector",
+      "Redis Vector Store",
+      "Spring",
+      "API",
+      "Embedding",
+      "Java",
+      "RAG",
+      "Vector Embeddings \nWhat",
+      "Vector Databases",
+      "Comparing"
+    ],
+    "img": "slides/slide-018.png",
+    "mmd": null
+  },
+  {
+    "id": 19,
+    "type": "title",
+    "summary": "Tool Calling",
+    "concepts": [
+      "AI",
+      "Tool\nChained",
+      "MCP",
+      "Tool",
+      "Building",
+      "Tool Calling",
+      "Spring",
+      "Defining",
+      "Model Context Protocol",
+      "Java",
+      "Tool Calling \nTool"
+    ],
+    "img": "slides/slide-019.png",
+    "mmd": "diagrams/slide-019.mmd"
+  },
+  {
+    "id": 20,
+    "type": "content",
+    "summary": "Fine-tuning & Cloud Model Hosting",
+    "concepts": [
+      "AI",
+      "Prometheus \nWhat",
+      "When",
+      "Fine",
+      "Prompt Engineering\nFine",
+      "Spring",
+      "LLM",
+      "API",
+      "Production \n Monitoring",
+      "Observability",
+      "RAG",
+      "AWS",
+      "Cloud Model Hosting \n Streaming",
+      "Grafana"
+    ],
+    "img": "slides/slide-020.png",
+    "mmd": null
+  },
+  {
+    "id": 21,
+    "type": "title",
+    "summary": "Block 3: Google ADK",
+    "concepts": [
+      "Tools",
+      "Tool",
+      "Sessions",
+      "Agent",
+      "API",
+      "Java",
+      "Architecture \nWhat",
+      "Introduction",
+      "Agents",
+      "Block",
+      "ADK",
+      "Google",
+      "Memory"
+    ],
+    "img": "slides/slide-021.png",
+    "mmd": "diagrams/slide-021.mmd"
+  },
+  {
+    "id": 22,
+    "type": "flow",
+    "summary": "Google ADK: Workflow Agents",
+    "concepts": [
+      "Multi",
+      "Custom",
+      "Loop",
+      "Parallel",
+      "Workflows\n Google",
+      "HITL",
+      "Agent",
+      "Workflow",
+      "Java",
+      "Workflow Agents \nSequential",
+      "ADK",
+      "Google",
+      "Human"
+    ],
+    "img": "slides/slide-022.png",
+    "mmd": "diagrams/slide-022.mmd"
+  },
+  {
+    "id": 23,
+    "type": "title",
+    "summary": "Block 4: LangChain4j",
+    "concepts": [
+      "Streaming",
+      "AI",
+      "MCP",
+      "Tool",
+      "Tool Calling",
+      "What",
+      "Spring Boot",
+      "Services",
+      "Spring",
+      "Memory",
+      "API",
+      "Setting",
+      "Java",
+      "Introduction",
+      "Block"
+    ],
+    "img": "slides/slide-023.png",
+    "mmd": null
+  },
+  {
+    "id": 24,
+    "type": "agenda",
+    "summary": "LangChain4j: Agentic Workflows",
+    "concepts": [
+      "LLM",
+      "Workflow",
+      "Sequential",
+      "Supervisor",
+      "Parallel Mapper",
+      "AI",
+      "Spring Boot Integration \nThe",
+      "Spring",
+      "Pure Agentic",
+      "Memory",
+      "Conditional",
+      "Vector",
+      "Loop",
+      "Agentic Workflows",
+      "Parallel"
+    ],
+    "img": "slides/slide-024.png",
+    "mmd": "diagrams/slide-024.mmd"
+  },
+  {
+    "id": 25,
+    "type": "title",
+    "summary": "Block 5: Projects",
+    "concepts": [
+      "AI",
+      "Image Generator",
+      "Projects \n Capstone",
+      "Ask",
+      "Tool",
+      "Travel Planner Agent",
+      "UI",
+      "Agent",
+      "Embedding",
+      "RAG",
+      "Features \nProject",
+      "Block",
+      "Build",
+      "Google",
+      "Vector"
+    ],
+    "img": "slides/slide-025.png",
+    "mmd": "diagrams/slide-025.mmd"
+  }
+]
