@@ -1,0 +1,177 @@
+[
+  {
+    "slide": 1,
+    "title": "learn.telusko.com",
+    "type": "Content",
+    "image": "slides/slide-001.png",
+    "diagram": null
+  },
+  {
+    "slide": 2,
+    "title": "learn.telusko.com",
+    "type": "Architecture",
+    "image": "slides/slide-002.png",
+    "diagram": "diagrams/slide-002.mmd"
+  },
+  {
+    "slide": 3,
+    "title": "learn.telusko.com",
+    "type": "Architecture",
+    "image": "slides/slide-003.png",
+    "diagram": "diagrams/slide-003.mmd"
+  },
+  {
+    "slide": 4,
+    "title": "learn.telusko.com",
+    "type": "Content",
+    "image": "slides/slide-004.png",
+    "diagram": null
+  },
+  {
+    "slide": 5,
+    "title": "learn.telusko.com",
+    "type": "Content",
+    "image": "slides/slide-005.png",
+    "diagram": null
+  },
+  {
+    "slide": 6,
+    "title": "learn.telusko.com",
+    "type": "Content",
+    "image": "slides/slide-006.png",
+    "diagram": null
+  },
+  {
+    "slide": 7,
+    "title": "learn.telusko.com",
+    "type": "Workflow",
+    "image": "slides/slide-007.png",
+    "diagram": "diagrams/slide-007.mmd"
+  },
+  {
+    "slide": 8,
+    "title": "learn.telusko.com",
+    "type": "Content",
+    "image": "slides/slide-008.png",
+    "diagram": null
+  },
+  {
+    "slide": 9,
+    "title": "learn.telusko.com",
+    "type": "Content",
+    "image": "slides/slide-009.png",
+    "diagram": null
+  },
+  {
+    "slide": 10,
+    "title": "learn.telusko.com",
+    "type": "Content",
+    "image": "slides/slide-010.png",
+    "diagram": null
+  },
+  {
+    "slide": 11,
+    "title": "learn.telusko.com",
+    "type": "Content",
+    "image": "slides/slide-011.png",
+    "diagram": null
+  },
+  {
+    "slide": 12,
+    "title": "learn.telusko.com",
+    "type": "Content",
+    "image": "slides/slide-012.png",
+    "diagram": null
+  },
+  {
+    "slide": 13,
+    "title": "learn.telusko.com",
+    "type": "Content",
+    "image": "slides/slide-013.png",
+    "diagram": null
+  },
+  {
+    "slide": 14,
+    "title": "HYDER ABBAS",
+    "type": "Content",
+    "image": "slides/slide-014.png",
+    "diagram": null
+  },
+  {
+    "slide": 15,
+    "title": "Date: June 14, 2026",
+    "type": "Agenda",
+    "image": "slides/slide-015.png",
+    "diagram": "diagrams/slide-015.mmd"
+  },
+  {
+    "slide": 16,
+    "title": "Block 1: Foundations",
+    "type": "Architecture",
+    "image": "slides/slide-016.png",
+    "diagram": "diagrams/slide-016.mmd"
+  },
+  {
+    "slide": 17,
+    "title": "Block 2: Spring AI",
+    "type": "Title Slide",
+    "image": "slides/slide-017.png",
+    "diagram": "diagrams/slide-017.mmd"
+  },
+  {
+    "slide": 18,
+    "title": "Vector Embeddings",
+    "type": "Code",
+    "image": "slides/slide-018.png",
+    "diagram": null
+  },
+  {
+    "slide": 19,
+    "title": "Tool Calling",
+    "type": "Agenda",
+    "image": "slides/slide-019.png",
+    "diagram": "diagrams/slide-019.mmd"
+  },
+  {
+    "slide": 20,
+    "title": "Fine-tuning & Cloud Model Hosting",
+    "type": "Agenda",
+    "image": "slides/slide-020.png",
+    "diagram": null
+  },
+  {
+    "slide": 21,
+    "title": "Block 3: Google ADK",
+    "type": "Title Slide",
+    "image": "slides/slide-021.png",
+    "diagram": "diagrams/slide-021.mmd"
+  },
+  {
+    "slide": 22,
+    "title": "Google ADK: Workflow Agents",
+    "type": "Agenda",
+    "image": "slides/slide-022.png",
+    "diagram": "diagrams/slide-022.mmd"
+  },
+  {
+    "slide": 23,
+    "title": "Block 4: Lang Chain4j",
+    "type": "Title Slide",
+    "image": "slides/slide-023.png",
+    "diagram": null
+  },
+  {
+    "slide": 24,
+    "title": "Lang Chain4j: Agentic Workflows",
+    "type": "Agenda",
+    "image": "slides/slide-024.png",
+    "diagram": "diagrams/slide-024.mmd"
+  },
+  {
+    "slide": 25,
+    "title": "Block 5: Projects",
+    "type": "Agenda",
+    "image": "slides/slide-025.png",
+    "diagram": "diagrams/slide-025.mmd"
+  }
+]

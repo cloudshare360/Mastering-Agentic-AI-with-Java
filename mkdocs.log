@@ -1,0 +1,40 @@
+
+[31m │  ⚠  Warning from the Material for MkDocs team[0m
+[31m │[0m
+[31m │[0m  MkDocs 2.0, the underlying framework of Material for MkDocs,
+[31m │[0m  will introduce backward-incompatible changes, including:
+[31m │[0m
+[31m │  × [0mAll plugins will stop working – the plugin system has been removed
+[31m │  × [0mAll theme overrides will break – the theming system has been rewritten
+[31m │  × [0mNo migration path exists – existing projects cannot be upgraded
+[31m │  × [0mClosed contribution model – community members can't report bugs
+[31m │  × [0mCurrently unlicensed – unsuitable for production use
+[31m │[0m
+[31m │[0m  Our full analysis:
+[31m │[0m
+[31m │[0m  [4mhttps://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/[0m
+[0m
+INFO    -  Building documentation...
+INFO    -  Cleaning site directory
+WARNING -  Doc file '01-Foundations/01-NLP-Fundamentals.md' contains a link '../01-Foundations/02-AI-ML-DL-Hierarchy.md', but the target '01-Foundations/02-AI-ML-DL-Hierarchy.md' is not found among documentation files.
+INFO    -  Documentation built in 1.29 seconds
+INFO    -  [18:06:14] Watching paths for changes: 'docs', 'mkdocs.yml'
+INFO    -  [18:06:14] Serving on http://0.0.0.0:8000/
+WARNING -  [18:06:25] "GET /versions.json HTTP/1.1" code 404
+INFO    -  [18:06:25] Browser connected: https://solid-train-gprgg5p967qcvx5v-8000.app.github.dev/
+WARNING -  [18:06:32] "GET /versions.json HTTP/1.1" code 404
+INFO    -  [18:06:32] Browser connected: https://solid-train-gprgg5p967qcvx5v-8000.app.github.dev/
+WARNING -  [18:06:34] "GET /versions.json HTTP/1.1" code 404
+INFO    -  [18:06:34] Browser connected: https://solid-train-gprgg5p967qcvx5v-8000.app.github.dev/slides-reference/
+WARNING -  [18:06:36] "GET /versions.json HTTP/1.1" code 404
+INFO    -  [18:06:37] Browser connected: https://solid-train-gprgg5p967qcvx5v-8000.app.github.dev/01-Foundations/
+WARNING -  [18:06:38] "GET /versions.json HTTP/1.1" code 404
+INFO    -  [18:06:38] Browser connected: https://solid-train-gprgg5p967qcvx5v-8000.app.github.dev/02-SpringAI/
+WARNING -  [18:06:39] "GET /versions.json HTTP/1.1" code 404
+INFO    -  [18:06:40] Browser connected: https://solid-train-gprgg5p967qcvx5v-8000.app.github.dev/03-GoogleADK/
+WARNING -  [18:06:40] "GET /versions.json HTTP/1.1" code 404
+INFO    -  [18:06:40] Browser connected: https://solid-train-gprgg5p967qcvx5v-8000.app.github.dev/04-LangChain4j/
+WARNING -  [18:06:41] "GET /versions.json HTTP/1.1" code 404
+INFO    -  [18:06:42] Browser connected: https://solid-train-gprgg5p967qcvx5v-8000.app.github.dev/05-Projects/
+WARNING -  [18:06:45] "GET /versions.json HTTP/1.1" code 404
+INFO    -  [18:06:45] Browser connected: https://solid-train-gprgg5p967qcvx5v-8000.app.github.dev/

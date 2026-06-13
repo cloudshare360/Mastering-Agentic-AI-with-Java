@@ -1,0 +1,166 @@
+/* Custom styles for Mastering Agentic AI with Java */
+
+:root {
+  --primary-color: #4285f4;
+  --secondary-color: #34a853;
+  --accent-color: #fbbc04;
+  --danger-color: #ea4335;
+}
+
+/* Enhanced code blocks */
+.highlight {
+  border-radius: 8px;
+  margin: 1em 0;
+}
+
+/* Improved table styling */
+table {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Better image display */
+img {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  max-width: 100%;
+  height: auto;
+  margin: 1.5em 0;
+}
+
+/* Enhanced admonitions */
+.admonition {
+  border-radius: 8px;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+.admonition.note {
+  border-left: 4px solid var(--primary-color);
+}
+
+.admonition.tip {
+  border-left: 4px solid var(--secondary-color);
+}
+
+.admonition.warning {
+  border-left: 4px solid var(--accent-color);
+}
+
+.admonition.danger {
+  border-left: 4px solid var(--danger-color);
+}
+
+/* Custom cards for learning modules */
+.module-card {
+  background: var(--md-default-bg-color);
+  border-radius: 12px;
+  padding: 1.5em;
+  margin: 1em 0;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.module-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+}
+
+/* Improved mermaid diagrams */
+.mermaid {
+  background: transparent;
+  padding: 2em 0;
+  text-align: center;
+}
+
+/* Better code inline */
+code {
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+/* Navigation enhancement */
+.md-nav__item--active > .md-nav__link {
+  font-weight: 600;
+}
+
+/* Table of contents styling */
+.md-sidebar--secondary {
+  border-left: 1px solid rgba(0,0,0,0.05);
+}
+
+/* Slide reference table improvements */
+.slide-table img {
+  max-width: 300px;
+  margin: 0.5em 0;
+}
+
+/* Learning outcomes list */
+.learning-outcomes {
+  list-style: none;
+  padding-left: 0;
+}
+
+.learning-outcomes li::before {
+  content: "✓ ";
+  color: var(--secondary-color);
+  font-weight: bold;
+  margin-right: 0.5em;
+}
+
+/* Prerequisites box */
+.prerequisites {
+  background: rgba(66, 133, 244, 0.1);
+  border-left: 4px solid var(--primary-color);
+  padding: 1em;
+  border-radius: 4px;
+  margin: 1em 0;
+}
+
+/* Duration badge */
+.duration-badge {
+  display: inline-block;
+  background: var(--accent-color);
+  color: white;
+  padding: 0.3em 0.8em;
+  border-radius: 20px;
+  font-size: 0.85em;
+  font-weight: 600;
+  margin: 0.5em 0;
+}
+
+/* Tech stack tags */
+.tech-tag {
+  display: inline-block;
+  background: rgba(0,0,0,0.05);
+  padding: 0.2em 0.6em;
+  border-radius: 4px;
+  font-size: 0.85em;
+  margin: 0.2em;
+}
+
+/* Responsive images for mobile */
+@media screen and (max-width: 768px) {
+  img {
+    max-width: 100%;
+  }
+  
+  .slide-table img {
+    max-width: 100%;
+  }
+}
+
+/* Print styles */
+@media print {
+  img {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  
+  .mermaid {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}

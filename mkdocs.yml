@@ -1,0 +1,138 @@
+site_name: Mastering Agentic AI with Java
+site_description: Complete course documentation for Mastering Agentic AI with Java
+site_author: Telusko Learning
+site_url: https://learn.telusko.com
+
+# Repository
+repo_name: Mastering-Agentic-AI-with-Java
+repo_url: https://github.com/yourusername/Mastering-Agentic-AI-with-Java
+
+# Theme
+theme:
+  name: material
+  language: en
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.tracking
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+  logo: assets/images/slide-001.png
+  favicon: assets/images/slide-001.png
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+
+# Extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+# Page tree navigation
+nav:
+  - Home: index.md
+  - Slides Reference: slides-reference.md
+  
+  - 1. Foundations:
+    - 01-Foundations/index.md
+    - NLP Fundamentals: 01-Foundations/01-NLP-Fundamentals.md
+  
+  - 2. Spring AI:
+    - 02-SpringAI/index.md
+  
+  - 3. Google ADK:
+    - 03-GoogleADK/index.md
+  
+  - 4. LangChain4j:
+    - 04-LangChain4j/index.md
+  
+  - 5. Projects:
+    - 05-Projects/index.md
+
+# Extra CSS
+extra_css:
+  - stylesheets/extra.css
+
+# Extra JavaScript
+extra_javascript:
+  - javascripts/extra.js
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/telusko
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/telusko
+  
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+  
+  version:
+    provider: mike
+
+# Copyright
+copyright: Copyright &copy; 2026 Telusko Learning
